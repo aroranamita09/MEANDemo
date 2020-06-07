@@ -11,6 +11,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { RegisterComponent } from './_components/register/register.component';
 import { NavbarComponent } from './_components/navbar/navbar.component';
 import { EmailComponent } from './_components/email/email.component';
+import { LeaderboardComponent } from './_components/leaderboard/leaderboard.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { EmailComponent } from './_components/email/email.component';
     LoginComponent,
     RegisterComponent,
     NavbarComponent,
-    EmailComponent
+    EmailComponent,
+    LeaderboardComponent
   ],
   imports: [
     BrowserModule,
