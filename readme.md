@@ -21,13 +21,13 @@ The site contains following sections:
 
 3. In the Navbar there is Link to leader-board.
 
-4.In the footer if you click Designed By : "Namita"-> It takes you to my Github profile.
+ 4.In the footer if you click Designed By : "Namita"-> It takes you to my Github profile.
 
-5.In the footer,clicking on About Us takes you to Intelliminds actual website.
+ 5.In the footer,clicking on About Us takes you to Intelliminds actual website.
 
-6.In the main page, if you click on "Get Access to your free events button", it takes you to SignUp page.
+ 6.In the main page, if you click on "Get Access to your free events button", it takes you to SignUp page.
 
-7.Search functionality is not active right now.
+ 7.Search functionality is not active right now.
 
 Tech Stack:
 For tech stack,used AngularJS , Redis (for database storage), Python |
